@@ -1,3 +1,3 @@
 # winsol
 analysing winsol data
-Diverse Temperaturdatenauswertungen für Winsol
+Diverse Temperaturdatenauswertungen für Winsoldateien
